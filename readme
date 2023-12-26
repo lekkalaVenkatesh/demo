@@ -1,0 +1,4 @@
+1. Code related to logic is written in FileService class
+2. Please run the PipeLineTest to run the logic and to generate the output file.
+3. Location of the output file will be printed in console, in real time we will configure this in Properties file.
+4. All the libraries used for coding are based on Streams api which will not have issue with large set of data.
